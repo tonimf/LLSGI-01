@@ -1,7 +1,8 @@
 # LLSGI-01
-A Crear documentos
+*A Crear documentos*
 
-He creado tres archivos txt, y a los 3 le he puesto el mismo codigo rtf sacado de los ejemplos. Les he cambiado las extensiones y los he abierto
+* He creado tres archivos txt, y a los 3 le he puesto el mismo codigo _rtf_ sacado de los ejemplos.
+* Les he cambiado las extensiones y los he abierto, obteniendo el siguiente resultado.
 
 b He ido a Github para registrarme y hacer mi primer repositorio siguiendo el manual de Github. Le he llamado .......  y he subido los tres archivos creados en el apartado A.
 
