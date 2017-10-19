@@ -1,7 +1,7 @@
 # LLSGI-01
 ### **A) Crear documentos**
 
->* He creado tres archivos txt, y a los 3 le he puesto el mismo codigo _rtf_ sacado de los ejemplos.
+>* He creado tres archivos txt, y a los 3 le he puesto un código de ejemplo.
 >* Les he cambiado las extensiones y los he abierto con sus respectivos programas para comprobar que funcionan correctamente..
 
 ### **B) Crear un repositorio**
